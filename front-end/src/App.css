@@ -1,0 +1,85 @@
+.nav-ul{
+  padding: 5px;
+  margin: 0%;
+  background-color: orange;
+  
+}
+.nav-ul li{
+  display: inline-block;
+  padding: 20px;
+}
+.nav-ul li a{
+  color: white;
+  text-decoration: none;
+}
+.add_product{
+  margin-left: 30%;
+}
+.invalid {
+  color: red;
+  margin-left: 20px;
+  display: block;
+}
+img{
+  width: 71px;
+  float: left;
+  border-radius: 40px;
+  margin-left: 10px;
+}
+.nav-right{
+  text-align: right;
+}
+.product-list{
+  text-align: center;
+  margin-top: 50px;
+}
+.product-list ul{
+  margin: 0%;
+}
+.product-list ul li{
+display: inline-block;
+border: 1px solid black;
+padding: 5px;
+width: 150px;
+}
+.search{
+  width: 400px;
+  margin: 20px;
+  height: 40px;
+  border: 1px solid black;
+  padding-left: 20px;
+}
+.footer{
+  width: 100%;
+  position: absolute;
+  display: block;
+  bottom: 0;
+  background-color: orange;
+}
+.footer h1{
+  color: white;
+  text-align: center;
+}
+.signup{
+margin-left: 30%;
+}
+.login{
+  margin-left: 30%;
+}
+.inputbox{
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid black;
+}
+.btn{
+  width: 100px;
+  margin: 25px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: brown;
+  color: white;
+  border: 10px solid brown;
+
+}
